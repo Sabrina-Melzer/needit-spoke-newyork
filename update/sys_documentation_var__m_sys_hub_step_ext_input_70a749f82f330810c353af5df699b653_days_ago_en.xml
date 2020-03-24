@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="days_ago" label="days_ago" language="en" table="var__m_sys_hub_step_ext_input_70a749f82f330810c353af5df699b653">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>days_ago</element>
+            <help/>
+            <hint/>
+            <label>days_ago</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_input_70a749f82f330810c353af5df699b653</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-24 10:02:21</sys_created_on>
+            <sys_id>05a749f82f330810c353af5df699b65a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>days_ago</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_454190_needit_sp">0a7d68b02fffc410c353af5df699b6ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">0a7d68b02fffc410c353af5df699b6ce</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_input_70a749f82f330810c353af5df699b653_days_ago_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-24 10:02:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
